@@ -39,9 +39,7 @@ The configuration details of each machine may be found below.
 
 In addition to the above, Azure has provisioned a <srong>load balancer</string> in front of all machines except for the jump box. The load balancer's targets are organized into the following availability zones:
 
-<ol>
-  <li><strong>Availability Zone 1:</strong> DVWA 1 + DVWA 2</li>
-</ol>
+- <strong>Availability Zone 1:</strong> DVWA 1 + DVWA 2</li>
 
 
 ## ELK Server Configuration
