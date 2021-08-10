@@ -37,7 +37,7 @@ The configuration details of each machine may be found below.
 | ELK      | Monitoring | 10.1.0.4   | Linux            |
 
 
-In addition to the above, Azure has provisioned a <srong>load balancer</string> in front of all machines except for the jump box. The load balancer's targets are organized into the following availability zones:
+In addition to the above, Azure has provisioned a <srong>load balancer</string> in front of all machines (Web Servers only) except for the jump box. The load balancer's targets are organized into the following availability zones:
 
 - <strong>Availability Zone 1:</strong> DVWA 1 + DVWA 2</li>
 
