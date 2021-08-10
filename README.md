@@ -41,7 +41,6 @@ In addition to the above, Azure has provisioned a <srong>load balancer</string> 
 
 <ol>
   <li><strong>Availability Zone 1:</strong> DVWA 1 + DVWA 2</li>
-  <li><strong>Availability Zone 2:</strong> ELK item</li>
 </ol>
 
 
