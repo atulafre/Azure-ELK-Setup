@@ -231,7 +231,7 @@ To use the playbooks, SSH into the control node and follow the steps below:
       enabled: yes
 ```
 
-- navigate to <public_ip_of_ELK-SERVER>:5601/app/kibana to check that the installation worked as expected.
+- Navigate to <public_ip_of_ELK-SERVER>:5601/app/kibana to check that the installation worked as expected.
 
 ![Dashboard](https://user-images.githubusercontent.com/82840381/128798437-1401e157-b406-48a9-ba65-f7e07018c356.png)
 
